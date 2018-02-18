@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AddTwoNumbers</string>
+    <string name="add">ADD NUMBERS</string>
 </resources>
